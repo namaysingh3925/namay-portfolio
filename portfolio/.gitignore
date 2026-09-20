@@ -1,0 +1,10 @@
+node_modules
+dist
+dist-ssr
+*.local
+.vite
+.DS_Store
+*.log
+
+# Left behind by `tsc -b`; the build now uses `tsc --noEmit` and never writes one.
+*.tsbuildinfo
